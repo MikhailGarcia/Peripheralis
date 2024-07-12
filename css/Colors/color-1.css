@@ -1,0 +1,10 @@
+
+:root{
+    --hue-value-1: 0;
+    --hue-value-2: 230;
+    --main-color: hsl(315, 100%, 33%);
+    --button-hover-color: hsl(315, 88%, 41%);
+    --body-bg-color: hsla(15, 100%, 92%, 0.3);
+    --border-color-2: hsl(var(--hue-value-1), 40%, 93%);
+    --shadow: 0 0 10px hsl(var(--hue-value-1), 40%, 90%);
+}
